@@ -1,0 +1,44 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.pyc
+*.pdb
+*.swp
+*.swo
+*.coverage
+*.coverage.*
+*.hypothesis/
+*.tox/
+*.nox/
+*.coverage
+*.dist-info/
+*.egg-info/
+env/
+venv/
+ENV/
+VENV/
+
+# JavaScript (Node.js)
+node_modules/
+npm-debug.log
+yarn-debug.log
+yarn-error.log
+dist/
+build/
+*.tgz
+*.swp
+
+# IDE/Editor files
+.vscode/
+.idea/
+*.sublime-workspace
+*.sublime-project
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# Python Virtual Environment
+*.env/
